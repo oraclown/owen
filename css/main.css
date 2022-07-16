@@ -1,0 +1,16 @@
+.general {
+    /* general */
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    /* font */
+    color: #212121;
+    font-size: 1.2rem;
+    word-break: break-word;
+    font-weight: 400;
+    font-family: Merriweather, Baskerville, Libre Baskerville, Georgia, serif;
+    line-height: 1.5em;
+}
